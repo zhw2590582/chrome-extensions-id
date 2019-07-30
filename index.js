@@ -1,7 +1,3 @@
-// Inspired by the following repositorys
-// https://github.com/shyiko/node-chrome-extension-id
-// https://github.com/shyiko/node-crx-parser
-
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
