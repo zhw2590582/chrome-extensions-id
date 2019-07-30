@@ -14,7 +14,7 @@ $ npm install chrome-extensions-id
 $ cei path/to/file.crx
 ```
 
-## Usage with js
+## Usage with nodejs
 
 ```js
 const cei = require('chrome-extensions-id');
