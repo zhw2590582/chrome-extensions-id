@@ -1,0 +1,29 @@
+{
+  "name": "chrome-extensions-id",
+  "version": "1.0.0",
+  "description": "Get chrome extensions id from a crx file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+		"cei": "cli.js"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhw2590582/chrome-extensions-id.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhw2590582/chrome-extensions-id/issues"
+  },
+  "homepage": "https://github.com/zhw2590582/chrome-extensions-id#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-config-prettier": "^6.0.0"
+  }
+}
