@@ -29,4 +29,4 @@ cei('path/to/file.crx').then(console.log);
 
 ## License
 
-MIT © [Harvey Zack]
+MIT © [Harvey Zack](https://sleepy.im/)
